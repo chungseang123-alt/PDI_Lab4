@@ -1,0 +1,13 @@
+ID,gender,group,Education,Math,English,Computer,Total,Average
+201,male,group A,high school,80,85,90,255,85.00
+202,female,group B,some college,90,92,94,276,92.00
+203,female,group C,high school,75,80,82,237,79.00
+204,female,group D,associate degree,88,84,86,258,86.00
+205,female,group A,some college,91,89,90,270,90.00
+206,male,group B,high school,72,75,78,225,75.00
+207,male,group C,some college,89,86,87,262,87.33
+208,female,group D,high school,67,73,71,211,70.33
+209,male,group B,associate degree,82,88,86,256,85.33
+210,female,group C,associate degree,94,96,92,282,94.00
+211,female,group D,some college,93,91,95,279,93.00
+212,female,group C,high school,78,76,80,234,78.00
